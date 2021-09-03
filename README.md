@@ -1,7 +1,5 @@
 # rinex_shoes
 
-https://monishvm.github.io/renix-shoes/build/web/
-
 A new Flutter project.
 
 ## Getting Started
